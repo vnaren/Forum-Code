@@ -53,7 +53,7 @@ input[type="submit"]{
 </head>
 <body>
 
-<div id="info">Login with username:<span></span>   and password:<span></span></div><!-- trying for git conflict -->
+<div id="info">Login with username:<span>ravi</span>   and password:<span>ravi</span></div><!-- trying for git conflict -->
 
 <div id="login_form">
 <form method="post" action="login.php">
