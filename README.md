@@ -1,2 +1,2 @@
 # Forum-Code
-This repository consists of code used to create and run http://naren-forum.pe.hu
+This repository consists of code used to create http://naren-forum.pe.hu
