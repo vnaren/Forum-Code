@@ -27,6 +27,7 @@ if(isset($_POST['submit'])){
 <head>
 <title>Forum Home page</title>
 <link href="http://fonts.googleapis.com/css?family=Patua+One|Alegreya+SC|Open+SansSail" rel="stylesheet" type="text/css">
+<!-- Added a comment -->
 <style type="text/css">
 	#content {
 	  width: 900px;
