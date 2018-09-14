@@ -1,4 +1,5 @@
 <?php
+//comment
 session_start();
 if(!isset($_SESSION['user_id']) && !isset($_SESSION['username'])) header('Location: index.php');
 /*$actual_link = $_SERVER['HTTP_REFERER'];
